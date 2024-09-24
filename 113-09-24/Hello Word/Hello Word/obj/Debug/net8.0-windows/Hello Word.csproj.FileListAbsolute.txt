@@ -1,0 +1,17 @@
+C:\Users\shu\Desktop\113_1_C#\113-09-24\Hello Word\Hello Word\bin\Debug\net8.0-windows\Hello Word.exe
+C:\Users\shu\Desktop\113_1_C#\113-09-24\Hello Word\Hello Word\bin\Debug\net8.0-windows\Hello Word.deps.json
+C:\Users\shu\Desktop\113_1_C#\113-09-24\Hello Word\Hello Word\bin\Debug\net8.0-windows\Hello Word.runtimeconfig.json
+C:\Users\shu\Desktop\113_1_C#\113-09-24\Hello Word\Hello Word\bin\Debug\net8.0-windows\Hello Word.dll
+C:\Users\shu\Desktop\113_1_C#\113-09-24\Hello Word\Hello Word\bin\Debug\net8.0-windows\Hello Word.pdb
+C:\Users\shu\Desktop\113_1_C#\113-09-24\Hello Word\Hello Word\obj\Debug\net8.0-windows\Hello_Word.Form1.resources
+C:\Users\shu\Desktop\113_1_C#\113-09-24\Hello Word\Hello Word\obj\Debug\net8.0-windows\Hello_Word.Properties.Resources.resources
+C:\Users\shu\Desktop\113_1_C#\113-09-24\Hello Word\Hello Word\obj\Debug\net8.0-windows\Hello Word.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\113_1_C#\113-09-24\Hello Word\Hello Word\obj\Debug\net8.0-windows\Hello Word.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shu\Desktop\113_1_C#\113-09-24\Hello Word\Hello Word\obj\Debug\net8.0-windows\Hello Word.AssemblyInfoInputs.cache
+C:\Users\shu\Desktop\113_1_C#\113-09-24\Hello Word\Hello Word\obj\Debug\net8.0-windows\Hello Word.AssemblyInfo.cs
+C:\Users\shu\Desktop\113_1_C#\113-09-24\Hello Word\Hello Word\obj\Debug\net8.0-windows\Hello Word.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\113_1_C#\113-09-24\Hello Word\Hello Word\obj\Debug\net8.0-windows\Hello Word.dll
+C:\Users\shu\Desktop\113_1_C#\113-09-24\Hello Word\Hello Word\obj\Debug\net8.0-windows\refint\Hello Word.dll
+C:\Users\shu\Desktop\113_1_C#\113-09-24\Hello Word\Hello Word\obj\Debug\net8.0-windows\Hello Word.pdb
+C:\Users\shu\Desktop\113_1_C#\113-09-24\Hello Word\Hello Word\obj\Debug\net8.0-windows\Hello Word.genruntimeconfig.cache
+C:\Users\shu\Desktop\113_1_C#\113-09-24\Hello Word\Hello Word\obj\Debug\net8.0-windows\ref\Hello Word.dll
