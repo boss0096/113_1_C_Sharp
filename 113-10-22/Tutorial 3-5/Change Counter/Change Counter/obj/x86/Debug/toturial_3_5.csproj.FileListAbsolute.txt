@@ -1,0 +1,10 @@
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-22\Tutorial 3-5\Change Counter\Change Counter\bin\Debug\Change Counter.exe.config
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-22\Tutorial 3-5\Change Counter\Change Counter\bin\Debug\Change Counter.exe
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-22\Tutorial 3-5\Change Counter\Change Counter\bin\Debug\Change Counter.pdb
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-22\Tutorial 3-5\Change Counter\Change Counter\obj\x86\Debug\toturial_3_5.csproj.AssemblyReference.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-22\Tutorial 3-5\Change Counter\Change Counter\obj\x86\Debug\Change_Counter.Form1.resources
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-22\Tutorial 3-5\Change Counter\Change Counter\obj\x86\Debug\Change_Counter.Properties.Resources.resources
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-22\Tutorial 3-5\Change Counter\Change Counter\obj\x86\Debug\toturial_3_5.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-22\Tutorial 3-5\Change Counter\Change Counter\obj\x86\Debug\toturial_3_5.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-22\Tutorial 3-5\Change Counter\Change Counter\obj\x86\Debug\Change Counter.exe
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-22\Tutorial 3-5\Change Counter\Change Counter\obj\x86\Debug\Change Counter.pdb
