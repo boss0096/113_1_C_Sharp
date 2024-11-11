@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\113_1_C_Sharp\Hw2\Stadium Seating\Stadium Seating\bin\Debug\net8.0-windows\Stadium Seating.exe
+C:\Users\User\Desktop\113_1_C_Sharp\Hw2\Stadium Seating\Stadium Seating\bin\Debug\net8.0-windows\Stadium Seating.deps.json
+C:\Users\User\Desktop\113_1_C_Sharp\Hw2\Stadium Seating\Stadium Seating\bin\Debug\net8.0-windows\Stadium Seating.runtimeconfig.json
+C:\Users\User\Desktop\113_1_C_Sharp\Hw2\Stadium Seating\Stadium Seating\bin\Debug\net8.0-windows\Stadium Seating.dll
+C:\Users\User\Desktop\113_1_C_Sharp\Hw2\Stadium Seating\Stadium Seating\bin\Debug\net8.0-windows\Stadium Seating.pdb
+C:\Users\User\Desktop\113_1_C_Sharp\Hw2\Stadium Seating\Stadium Seating\obj\Debug\net8.0-windows\Stadium_Seating.Form1.resources
+C:\Users\User\Desktop\113_1_C_Sharp\Hw2\Stadium Seating\Stadium Seating\obj\Debug\net8.0-windows\Stadium Seating.csproj.GenerateResource.cache
+C:\Users\User\Desktop\113_1_C_Sharp\Hw2\Stadium Seating\Stadium Seating\obj\Debug\net8.0-windows\Stadium Seating.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\113_1_C_Sharp\Hw2\Stadium Seating\Stadium Seating\obj\Debug\net8.0-windows\Stadium Seating.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\113_1_C_Sharp\Hw2\Stadium Seating\Stadium Seating\obj\Debug\net8.0-windows\Stadium Seating.AssemblyInfo.cs
+C:\Users\User\Desktop\113_1_C_Sharp\Hw2\Stadium Seating\Stadium Seating\obj\Debug\net8.0-windows\Stadium Seating.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\113_1_C_Sharp\Hw2\Stadium Seating\Stadium Seating\obj\Debug\net8.0-windows\Stadium Seating.sourcelink.json
+C:\Users\User\Desktop\113_1_C_Sharp\Hw2\Stadium Seating\Stadium Seating\obj\Debug\net8.0-windows\Stadium Seating.dll
+C:\Users\User\Desktop\113_1_C_Sharp\Hw2\Stadium Seating\Stadium Seating\obj\Debug\net8.0-windows\refint\Stadium Seating.dll
+C:\Users\User\Desktop\113_1_C_Sharp\Hw2\Stadium Seating\Stadium Seating\obj\Debug\net8.0-windows\Stadium Seating.pdb
+C:\Users\User\Desktop\113_1_C_Sharp\Hw2\Stadium Seating\Stadium Seating\obj\Debug\net8.0-windows\Stadium Seating.genruntimeconfig.cache
+C:\Users\User\Desktop\113_1_C_Sharp\Hw2\Stadium Seating\Stadium Seating\obj\Debug\net8.0-windows\ref\Stadium Seating.dll

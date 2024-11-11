@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\113_1_C_Sharp\Hw2\Credit Card Points\Credit Card Points\bin\Debug\net8.0-windows\Credit Card Points.exe
+C:\Users\User\Desktop\113_1_C_Sharp\Hw2\Credit Card Points\Credit Card Points\bin\Debug\net8.0-windows\Credit Card Points.deps.json
+C:\Users\User\Desktop\113_1_C_Sharp\Hw2\Credit Card Points\Credit Card Points\bin\Debug\net8.0-windows\Credit Card Points.runtimeconfig.json
+C:\Users\User\Desktop\113_1_C_Sharp\Hw2\Credit Card Points\Credit Card Points\bin\Debug\net8.0-windows\Credit Card Points.dll
+C:\Users\User\Desktop\113_1_C_Sharp\Hw2\Credit Card Points\Credit Card Points\bin\Debug\net8.0-windows\Credit Card Points.pdb
+C:\Users\User\Desktop\113_1_C_Sharp\Hw2\Credit Card Points\Credit Card Points\obj\Debug\net8.0-windows\Credit_Card_Points.Form1.resources
+C:\Users\User\Desktop\113_1_C_Sharp\Hw2\Credit Card Points\Credit Card Points\obj\Debug\net8.0-windows\Credit Card Points.csproj.GenerateResource.cache
+C:\Users\User\Desktop\113_1_C_Sharp\Hw2\Credit Card Points\Credit Card Points\obj\Debug\net8.0-windows\Credit Card Points.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\113_1_C_Sharp\Hw2\Credit Card Points\Credit Card Points\obj\Debug\net8.0-windows\Credit Card Points.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\113_1_C_Sharp\Hw2\Credit Card Points\Credit Card Points\obj\Debug\net8.0-windows\Credit Card Points.AssemblyInfo.cs
+C:\Users\User\Desktop\113_1_C_Sharp\Hw2\Credit Card Points\Credit Card Points\obj\Debug\net8.0-windows\Credit Card Points.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\113_1_C_Sharp\Hw2\Credit Card Points\Credit Card Points\obj\Debug\net8.0-windows\Credit Card Points.sourcelink.json
+C:\Users\User\Desktop\113_1_C_Sharp\Hw2\Credit Card Points\Credit Card Points\obj\Debug\net8.0-windows\Credit Card Points.dll
+C:\Users\User\Desktop\113_1_C_Sharp\Hw2\Credit Card Points\Credit Card Points\obj\Debug\net8.0-windows\refint\Credit Card Points.dll
+C:\Users\User\Desktop\113_1_C_Sharp\Hw2\Credit Card Points\Credit Card Points\obj\Debug\net8.0-windows\Credit Card Points.pdb
+C:\Users\User\Desktop\113_1_C_Sharp\Hw2\Credit Card Points\Credit Card Points\obj\Debug\net8.0-windows\Credit Card Points.genruntimeconfig.cache
+C:\Users\User\Desktop\113_1_C_Sharp\Hw2\Credit Card Points\Credit Card Points\obj\Debug\net8.0-windows\ref\Credit Card Points.dll
