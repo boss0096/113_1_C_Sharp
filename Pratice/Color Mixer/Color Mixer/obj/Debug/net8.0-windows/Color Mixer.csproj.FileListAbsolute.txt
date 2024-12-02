@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\113_1_C_Sharp\Pratice\Color Mixer\Color Mixer\bin\Debug\net8.0-windows\Color Mixer.exe
+C:\Users\User\Desktop\113_1_C_Sharp\Pratice\Color Mixer\Color Mixer\bin\Debug\net8.0-windows\Color Mixer.deps.json
+C:\Users\User\Desktop\113_1_C_Sharp\Pratice\Color Mixer\Color Mixer\bin\Debug\net8.0-windows\Color Mixer.runtimeconfig.json
+C:\Users\User\Desktop\113_1_C_Sharp\Pratice\Color Mixer\Color Mixer\bin\Debug\net8.0-windows\Color Mixer.dll
+C:\Users\User\Desktop\113_1_C_Sharp\Pratice\Color Mixer\Color Mixer\bin\Debug\net8.0-windows\Color Mixer.pdb
+C:\Users\User\Desktop\113_1_C_Sharp\Pratice\Color Mixer\Color Mixer\obj\Debug\net8.0-windows\Color_Mixer.Form1.resources
+C:\Users\User\Desktop\113_1_C_Sharp\Pratice\Color Mixer\Color Mixer\obj\Debug\net8.0-windows\Color Mixer.csproj.GenerateResource.cache
+C:\Users\User\Desktop\113_1_C_Sharp\Pratice\Color Mixer\Color Mixer\obj\Debug\net8.0-windows\Color Mixer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\113_1_C_Sharp\Pratice\Color Mixer\Color Mixer\obj\Debug\net8.0-windows\Color Mixer.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\113_1_C_Sharp\Pratice\Color Mixer\Color Mixer\obj\Debug\net8.0-windows\Color Mixer.AssemblyInfo.cs
+C:\Users\User\Desktop\113_1_C_Sharp\Pratice\Color Mixer\Color Mixer\obj\Debug\net8.0-windows\Color Mixer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\113_1_C_Sharp\Pratice\Color Mixer\Color Mixer\obj\Debug\net8.0-windows\Color Mixer.sourcelink.json
+C:\Users\User\Desktop\113_1_C_Sharp\Pratice\Color Mixer\Color Mixer\obj\Debug\net8.0-windows\Color Mixer.dll
+C:\Users\User\Desktop\113_1_C_Sharp\Pratice\Color Mixer\Color Mixer\obj\Debug\net8.0-windows\refint\Color Mixer.dll
+C:\Users\User\Desktop\113_1_C_Sharp\Pratice\Color Mixer\Color Mixer\obj\Debug\net8.0-windows\Color Mixer.pdb
+C:\Users\User\Desktop\113_1_C_Sharp\Pratice\Color Mixer\Color Mixer\obj\Debug\net8.0-windows\Color Mixer.genruntimeconfig.cache
+C:\Users\User\Desktop\113_1_C_Sharp\Pratice\Color Mixer\Color Mixer\obj\Debug\net8.0-windows\ref\Color Mixer.dll
